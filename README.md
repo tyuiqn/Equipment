@@ -18,6 +18,8 @@ StatManger (made my Securti)
 
 Level (made my Securti)
 
+→ Without this plugins, it can cause erros
+
 ## API for Developers
 
 None
